@@ -2,6 +2,7 @@
 
 The Mechanics Design Assistant (MeDeA) is a prototype tool provided with the paper:
   Riemer van Rozen, A Pattern-Based Game Mechanics Design Assistant, Foundations of Digital Games, 2015.
+  https://vrozen.github.io/fdg2015/fdg2015_rozen.pdf
 
 ## Running MeDeA
 First install Rascal MPL, please find instructions here http://www.rascal-mpl.org
